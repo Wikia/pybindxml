@@ -10,6 +10,6 @@ setup(
     author_email='code@jeffreyforman.net',
     license='MIT',
     packages = ['pybindxml'],
-    url = 'http:://github.com/jforman/pybindxml',
-    install_requires = ['bs4.BeautifulSoup'],
+    url = 'http:://github.com/Wikia/pybindxml',
+    install_requires = ['beautifulsoup4'],
 )
